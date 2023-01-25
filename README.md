@@ -1,2 +1,4 @@
 # CBB-analysis
-Explore a NCAA college basketball team's chances of making the NCAA Tournament based on statistics and basic machine learning algorithms.
+
+At the same time this project was released, the teams which had made the tournament were established and the NCAA March Madness Tournament had just begun. It is a particularly intense time of the season, when teams are locked in final matchups that could either guarantee them a spot in the madness or leave on the outside looking in. Given the excitement of this part of the season, we were curious if there was any way to use data to get a deeper understanding of what it takes to make the coveted March Madness. As such, we decided to ask if it is possible to predict if a team will make it into the NCAA tournament, and if so what factors contributed to their advancement. Obviously, a team’s win record was a significant factor, but we wanted to explore more unique variables such as shooting percentages, basic counting stats, and advanced metrics among many others.
+
